@@ -10,4 +10,5 @@ public class BalancoTrimestral {
 
         System.out.println("Valor da média mensal = " + mediaMensal);
 
+    } 
 }
